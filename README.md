@@ -1,0 +1,3 @@
+Here is my first rice hope you enjoy :)
+
+<img width="1919" height="1081" alt="image" src="https://github.com/user-attachments/assets/3307fb2d-ad37-4677-859f-5b5ff5056686" />
