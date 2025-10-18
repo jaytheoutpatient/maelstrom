@@ -1,0 +1,53 @@
+* {
+    font-family: "Hack", monospace;
+}
+
+window {
+    background-color: transparent;
+    border-style: solid dashed dashed solid;
+    border-width: 4px 1px 1px 4px;
+    border-color: rgba(100, 20, 25, 1)rgba(220, 0, 80, 1)rgba(220, 0, 80, 1)rgba(100, 20, 25, 1);
+}
+
+#input {
+    margin: 5px;
+    border-radius: 0px;
+    border: none;
+    background-color: transparent;
+    color: rgba(100, 20, 25, 1); 
+    text-shadow: 2px 2px rgba(15, 15, 15, 1);
+}
+
+#inner-box {
+    background-color: transparent; /* cachydblue */
+}
+
+#outer-box {
+    margin: 2px;
+    padding: 10px;
+    background-color: transparent; /* cachydblue */
+}
+
+#scroll {
+    margin: 5px;
+}
+
+#text {
+    background-color: rgba(15, 15, 15, 1);
+    opacity: 0.9;
+    padding: 4px;
+    color: rgba(100, 20, 25, 1); /* cachywhite */
+    text-shadow: 2px 2px rgba(15, 15, 15, 1);
+}
+
+#entry:nth-child(even){
+    background-color: transparent; /* cachymblue */
+}
+
+#entry:selected {
+    background-color: transparent; /* cachymgreen */
+}
+
+#text:selected {
+    background: transparent;
+}
